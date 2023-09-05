@@ -61,4 +61,4 @@ Upload the provided Arduino code to your Arduino board using the Arduino IDE. En
 2. We can connect it to GPS and Google Maps API that enables it to guide the individual to a destination
 
 ## Contact
-- Name: [Email](mailto:soham.chongder20@gmmail.com)
+- Soham Chongder: [Email](mailto:soham.chongder20@gmmail.com)
