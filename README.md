@@ -64,3 +64,7 @@ Upload the provided Arduino code to your Arduino board using the Arduino IDE. En
 
 ## Contact
 - Soham Chongder: [Email](mailto:soham.chongder20@gmmail.com)
+
+
+
+Further details available at [Read more](https://www.tinkercad.com/things/5eZGow77hy7)
