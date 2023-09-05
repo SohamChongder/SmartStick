@@ -1,8 +1,5 @@
-Certainly! Below is a sample README.md file for your Arduino-based Smart Stick project on GitHub:
 
 # Arduino Smart Stick with Collision Avoidance
-
-![Arduino Smart Stick](smart stick.png)
 
 This Arduino-based Smart Stick is designed to help users avoid collisions by measuring distance on all three sides using ultrasonic distance sensors and turning the front wheels based on that information using servo motors. The project also utilizes four Hobby Gearmotors powered by two 9V batteries and coordinated with motor drivers.
 
@@ -14,8 +11,6 @@ This Arduino-based Smart Stick is designed to help users avoid collisions by mea
 - [Assembly Instructions](#assembly-instructions)
 - [Arduino Code](#arduino-code)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
