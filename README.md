@@ -60,7 +60,5 @@ Upload the provided Arduino code to your Arduino board using the Arduino IDE. En
 1. We can implement ML in it to map surroundings allowing better navigation
 2. We can connect it to GPS and Google Maps API that enables it to guide the individual to a destination
 
-
----
-
-Feel free to customize this README.md file to match the specifics of your project and provide more detailed information, code examples, and images as needed.
+## Contact
+- Name: [Email](mailto:soham.chongder20@gmmail.com)
